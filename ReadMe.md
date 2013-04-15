@@ -1,6 +1,6 @@
-# OmniFocus Templates using Calendar Alerts and AppleScript
+# OmniFocus Templates Using Calendar Alerts and AppleScript
 
-The three Scripts in this repo show examples of how to have Calendar alerts create OmniFocus projects for you.
+The three Scripts in this repo show examples of how to have Calendar alerts create OmniFocus projects.
 
 - base_example is a template that will work with AppleScript Editor
 - action_group_example is a template that will work with AppleScript Editor
